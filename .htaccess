@@ -22,3 +22,35 @@ RewriteRule . /techwise/index.php [L]
 		php_value max_execution_time 300
 
 	</IfModule>
+
+	# WP Increse Maximum Execution Time
+
+	<IfModule mod_php5.c>
+
+		php_value max_execution_time 300
+
+	</IfModule>
+
+	# WP Increse Maximum Execution Time
+
+	<IfModule mod_php5.c>
+
+		php_value max_execution_time 300
+
+	</IfModule>
+
+	# WP Increse Maximum Execution Time
+
+	<IfModule mod_php5.c>
+
+		php_value max_execution_time 300
+
+	</IfModule>
+
+	# WP Increse Maximum Execution Time
+
+	<IfModule mod_php5.c>
+
+		php_value max_execution_time 300
+
+	</IfModule>
